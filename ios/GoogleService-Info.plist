@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>743116340887-74c7kna9eu28pjr36n1l8vu4r4pohntg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.743116340887-74c7kna9eu28pjr36n1l8vu4r4pohntg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCv8D3vORr-08EskcYnrfQc0eCB2WNy2EU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>743116340887</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterblogapp</string>
+	<key>PROJECT_ID</key>
+	<string>kennblogapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kennblogapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:743116340887:ios:df1c6b1fc9190b097e33d2</string>
+	<key>DATABASE_URL</key>
+	<string>https://kennblogapp.firebaseio.com</string>
+</dict>
+</plist>
