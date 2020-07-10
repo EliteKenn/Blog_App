@@ -1,6 +1,6 @@
 # flutterblogapp
 
-Blog app + Firebase
+Blog app + Firebase. Works for IOS and Android devices.
 
 ## Getting Started
 
