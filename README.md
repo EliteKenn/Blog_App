@@ -1,6 +1,6 @@
 # flutterblogapp
 
-Blog app + Firebase. Works for IOS and Android devices.
+Blog app made using Flutter/Dart + Firebase for the backend. Works for IOS and Android devices.
 
 ## Getting Started
 
